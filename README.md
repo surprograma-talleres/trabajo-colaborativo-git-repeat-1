@@ -1,6 +1,10 @@
-🌐 ¡Hola mundo!
+🌐 ¡Hello WORLD!
 
-👋 Me llamo _COMPLETAR_
-🗺️ y actualmente estoy en _COMPLETAR_.
+👋 Me llamo Pablo Ricardo
 
-📆 En los próximos días, me gustaría _COMPLETAR_.
+🗺️ y actualmente estoy en pantuflas.
+
+📆 En los próximos días, me gustaría aprender mas de github.
+
+Que te pasa capo, necesito pushear el codigo!! ahhh
+
