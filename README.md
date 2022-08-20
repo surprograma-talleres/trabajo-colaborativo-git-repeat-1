@@ -1,6 +1,9 @@
 🌐 ¡Hola mundo!
 
-👋 Me llamo _COMPLETAR_
-🗺️ y actualmente estoy en _COMPLETAR_.
+👋 Me llamo Pablo
+🗺️ y actualmente estoy en mi casa.
 
-📆 En los próximos días, me gustaría _COMPLETAR_.
+📆 En los próximos días, me gustaría aprender mas de github.
+
+
+Que te pasa capo, necesito pushear el codigo!! ahhh
